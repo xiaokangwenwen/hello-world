@@ -29,4 +29,4 @@ id|姓名|年龄
 *斜体*
 ## 超级连接
 <www.baidu.com>  
-[百度]（www.baidu.com）
+![百度]（www.baidu.com）
