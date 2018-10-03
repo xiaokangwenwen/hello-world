@@ -41,8 +41,8 @@ void main()
 }
 ```
 ```c#
-using system
-using io
+using system;
+using io;
 namespace oem
 {
   public class myclass
