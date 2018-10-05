@@ -54,7 +54,8 @@ namespace oem
 }
 ```
 
-
+# 图片引用方式 ![名字](网络上的URL)
+![linux](https://sdtimes.com/wp-content/uploads/2017/02/0221.sdt-linux.png)
 
 
 
