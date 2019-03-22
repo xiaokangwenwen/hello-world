@@ -25,3 +25,4 @@ Docker利用Linux核心中的资源分离机制，例如cgroups，以及Linux核
 + docker run //运行一个容器
 + docker build //创建本地镜像，根据Dockerfile创建本地的镜像文件
 + 更多详细指令参照 RUNOOB 教程
++ end 
